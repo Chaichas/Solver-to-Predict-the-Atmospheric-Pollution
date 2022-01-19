@@ -1,0 +1,23 @@
+Start testing: Dec 08 12:13 CET
+----------------------------------------------------------
+1/1 Testing: mytest
+1/1 Test: mytest
+Command: "/home/aicha/TD2/build/MainProject/src/MainProject"
+Directory: /home/aicha/TD2/build/MainProject/src
+"mytest" start time: Dec 08 12:13 CET
+Output:
+----------------------------------------------------------
+compute equation at time : 0
+compute equation at time : 1
+compute equation at time : 2
+compute equation at time : 3
+compute equation at time : 4
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"mytest" end time: Dec 08 12:13 CET
+"mytest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 08 12:13 CET

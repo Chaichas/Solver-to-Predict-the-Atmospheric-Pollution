@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/aicha/TD2/build/MainProject/src",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/aicha/TD2/MainProject/include -I/home/aicha/TD2/LibProject/include  -g   -std=gnu++17 -o CMakeFiles/MainProject.dir/main.cpp.o -c /home/aicha/TD2/MainProject/src/main.cpp",
+  "file": "/home/aicha/TD2/MainProject/src/main.cpp"
+},
+{
+  "directory": "/home/aicha/TD2/build/LibProject/src",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/aicha/TD2/LibProject/include  -g   -std=gnu++17 -o CMakeFiles/LibProject.dir/test.cpp.o -c /home/aicha/TD2/LibProject/src/test.cpp",
+  "file": "/home/aicha/TD2/LibProject/src/test.cpp"
+}
+]

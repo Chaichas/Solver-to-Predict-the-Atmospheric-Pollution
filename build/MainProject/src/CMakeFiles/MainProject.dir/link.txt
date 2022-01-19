@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/MainProject.dir/main.cpp.o  -o MainProject   -L/home/aicha/TD2/LibProject/src  -Wl,-rpath,/home/aicha/TD2/LibProject/src ../../LibProject/src/libLibProject.a 
